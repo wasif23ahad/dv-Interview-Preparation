@@ -1,7 +1,5 @@
 # dv-Interview-Preparation
 
-Good idea. Here is your Markdown with the reference to the source (your link) added in a **References** section.
-
 ---
 
 # **VLSI Design Verification – Interview Answers (Markdown Version)**
