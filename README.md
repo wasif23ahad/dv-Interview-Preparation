@@ -2,7 +2,7 @@
 
 ---
 
-# **VLSI Design Verification – Interview Answers (Markdown Version)**
+# **VLSI Design Verification – Interview Answers **
 
 ## **1. How do you approach creating a comprehensive verification plan for a new SoC design?**
 
